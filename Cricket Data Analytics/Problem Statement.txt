@@ -1,0 +1,37 @@
+Find out the best 11 players for a t20 match from the given 
+espn database
+
+1. Team should be able to score atleast 180 runs on avg
+2. Team should be able to defend 150 run on avg
+
+Openers:
+Batting avg > 30
+Strike rate > 140 
+Innings batted > 3	
+Boundary% > 50
+Batting Positions < 4
+
+Middle order:
+Batting avg > 40
+Strike rate > 125 
+Innings batted > 3	
+Boundary% > 20
+Batting Positions > 2
+
+Lower  order:
+Batting avg > 25
+Strike rate > 130 
+Innings batted > 3
+Avg balls faced > 12	
+Batting Positions > 4
+Innings bowled > 1
+
+All rounders:
+Batting avg > 15
+Strike rate > 140 
+Innings batted > 2	
+Batting Positions > 4
+Innings bowled > 2
+Bowling economy < 7
+Bowling strike rate < 20 
+
